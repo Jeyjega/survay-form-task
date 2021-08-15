@@ -1,0 +1,21 @@
+input[type=radio] {
+    border: 100px;
+    width: 50%;
+    height: 1.5ch;
+}
+.color{
+    background-color: rgb(226, 225, 225);
+}
+table{
+    border: 100px;
+    
+}
+td{
+    align-content: center;
+    border: 100px;
+    width: 100px;
+}
+body{
+    border: 100px;
+    padding-left: 20px;
+}
